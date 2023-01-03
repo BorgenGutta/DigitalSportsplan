@@ -1,0 +1,3 @@
+[submodule "borgenil-digitalsportsplan/themes/beautifulhugo"]
+	path = borgenil-digitalsportsplan/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

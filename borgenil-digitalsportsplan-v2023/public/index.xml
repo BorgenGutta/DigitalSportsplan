@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Borgen IL Digital Sportsplan</title>
+    <title>Borgen Idrettslag</title>
     <link>https://borgenil-digitalsportsplan.netlify.app/</link>
-    <description>Recent content on Borgen IL Digital Sportsplan</description>
+    <description>Recent content on Borgen Idrettslag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
-    <managingEditor>borgengutta@live.com (Jan Vidar Elven)</managingEditor>
-    <webMaster>borgengutta@live.com (Jan Vidar Elven)</webMaster><atom:link href="https://borgenil-digitalsportsplan.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
+    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster><atom:link href="https://borgenil-digitalsportsplan.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://borgenil-digitalsportsplan.netlify.app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
       <guid>https://borgenil-digitalsportsplan.netlify.app/</guid>
       <description></description>
     </item>

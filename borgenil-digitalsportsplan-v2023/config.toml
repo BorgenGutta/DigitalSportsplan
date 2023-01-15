@@ -1,6 +1,6 @@
 baseURL = 'https://borgenil-digitalsportsplan.netlify.app/'
 languageCode = 'nb-no'
-title = 'Borgen IL Digital Sportsplan'
+title = 'Borgen Idrettslag'
 DefaultContentLanguage = "nb"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Borgen IL" # Set a different text for the header on the home page
+  homeTitle = "Borgen IL Sportsplan" # Set a different text for the header on the home page
   subtitle = "Digital Sportsplan for Borgen Idrettslag"
   mainSections = ["post","posts"]
   logo = "img/BorgenIL_Logo.png" # Expecting square dimensions
@@ -47,7 +47,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Jan Vidar Elven"
   website = "borgen-il.no"
-  email = "borgengutta@live.com"
+  email = "post@borgen-il.no"
   facebook = "borgenil.no"
   github = "borgengutta"
   #gitlab = "username"

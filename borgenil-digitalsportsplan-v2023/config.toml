@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "Borgen IL" # Set a different text for the header on the home page
-  subtitle = "Digital Sportsplan for Borgen IL."
+  subtitle = "Digital Sportsplan for Borgen Idrettslag"
   mainSections = ["post","posts"]
   logo = "img/BorgenIL_Logo.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -54,12 +54,12 @@ pygmentsCodefencesGuessSyntax = true
   #bitbucket = "username"
   twitter = "OfficialBorgen"
   #reddit = "username"
-  linkedin = "username"
+  #linkedin = "username"
   #xing = "username"
   #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
   instagram = "borgen_il"
-  youtube = "channel/UCc3bA0ngtF7z9YN30B4TIxw" # "user/username" or channel/channelname
+  #youtube = "channel/UCc3bA0ngtF7z9YN30B4TIxw" # "user/username" or channel/channelname
   #soundcloud = "username"
   #spotify = "username"
   #bandcamp = "username"
@@ -75,9 +75,9 @@ pygmentsCodefencesGuessSyntax = true
   #slack = "username"
 
 [[menu.main]]
-    name = "Innlegg"
+    name = "Oppdateringer"
     url = ""
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Om"
@@ -88,3 +88,69 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "Sportsplan"
+    url = "page/sportsplan/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Sportsplan"
+    identifier = "sportsplan-klubben"
+    name = "Klubben"
+    url = "page/sportsplan/klubben"
+    weight = 1
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "6-7 år"
+    url = "page/sportsplan/6-7"
+    weight = 2
+ 
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "8-9 år"
+    url = "page/sportsplan/8-9"
+    weight = 3
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "10-11 år"
+    url = "page/sportsplan/10-11"
+    weight = 4
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "13-16 år"
+    url = "page/sportsplan/13-16"
+    weight = 5
+
+[[menu.main]]
+    parent = "sportsplan-klubben"
+    name = "Holdningskontrakt"
+    url = "page/sportsplan/klubben/holdningskontrakt"
+    weight = 5
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Laget"
+    url = "page/sportsplan/6-7/laget"
+    weight = 1
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Treneren"
+    url = "page/sportsplan/6-7/treneren"
+    weight = 2
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Trening"
+    url = "page/sportsplan/6-7/trening"
+    weight = 3
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Kampen"
+    url = "page/sportsplan/6-7/kampen"
+    weight = 4

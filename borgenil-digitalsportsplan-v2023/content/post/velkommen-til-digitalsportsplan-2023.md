@@ -1,7 +1,6 @@
 ---
 title: "Velkommen Til Digital Sportsplan"
 author: "Jan Vidar Elven"
-type: ""
 date: 2023-01-15T15:44:17+01:00
 subtitle: "Borgen Idrettslag - 2023"
 image: ""

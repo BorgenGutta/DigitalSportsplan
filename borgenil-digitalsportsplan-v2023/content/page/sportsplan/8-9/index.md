@@ -4,8 +4,9 @@ author: "Jan Vidar Elven"
 date: 2023-01-15T17:08:25+01:00
 subtitle: "Sportsplan - 8-9 år"
 image: ""
-tags: ["8-9"]
+tags: ["barnefotball"]
 ---
-## 8-9 år
 
 Dette er den delen av sportsplanen som omhandler 8-9 år.
+
+## 8-9 år

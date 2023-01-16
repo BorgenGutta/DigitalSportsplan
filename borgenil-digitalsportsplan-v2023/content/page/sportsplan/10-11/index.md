@@ -4,8 +4,9 @@ author: "Jan Vidar Elven"
 date: 2023-01-15T17:08:25+01:00
 subtitle: "Sportsplan - 10-11 år"
 image: ""
-tags: ["10-11"]
+tags: ["barnefotball"]
 ---
-## 10-11 år
 
 Dette er den delen av sportsplanen som omhandler 10-11 år.
+
+## 10-11 år

@@ -131,26 +131,3 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/sportsplan/klubben/holdningskontrakt"
     weight = 5
 
-[[menu.main]]
-    parent = "6-7 år"
-    name = "Laget"
-    url = "page/sportsplan/6-7/laget"
-    weight = 1
-
-[[menu.main]]
-    parent = "6-7 år"
-    name = "Treneren"
-    url = "page/sportsplan/6-7/treneren"
-    weight = 2
-
-[[menu.main]]
-    parent = "6-7 år"
-    name = "Trening"
-    url = "page/sportsplan/6-7/trening"
-    weight = 3
-
-[[menu.main]]
-    parent = "6-7 år"
-    name = "Kampen"
-    url = "page/sportsplan/6-7/kampen"
-    weight = 4

@@ -75,6 +75,11 @@ pygmentsCodefencesGuessSyntax = true
   #slack = "username"
 
 [[menu.main]]
+    name = "Sportsplan"
+    url = "page/sportsplan/"
+    weight = 1
+
+[[menu.main]]
     name = "Oppdateringer"
     url = ""
     weight = 2
@@ -87,12 +92,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
-
-[[menu.main]]
-    name = "Sportsplan"
-    url = "page/sportsplan/"
-    weight = 1
+    weight = 4
 
 [[menu.main]]
     parent = "Sportsplan"

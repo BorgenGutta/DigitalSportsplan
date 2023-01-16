@@ -1,8 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-author: ""
 date: {{ .Date }}
+draft: true
+author: ""
+#type: ""
 subtitle: ""
 image: ""
 tags: []
 ---
+
+**Sett inn innledende tekst her..**
+
+## Underoverskrift
+

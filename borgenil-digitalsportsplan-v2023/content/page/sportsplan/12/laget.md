@@ -2,9 +2,9 @@
 title: "Laget"
 author: "Jan Vidar Elven"
 date: 2023-01-15T18:00:00+01:00
-subtitle: "Laget - 6-7 år"
+subtitle: "Laget - 12 år"
 image: ""
-tags: ["barnefotball 6-7 år"]
+tags: ["barnefotball"]
 ---
 
 ### Klubben som sjef

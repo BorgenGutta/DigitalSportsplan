@@ -4,7 +4,7 @@ author: "Jan Vidar Elven"
 date: 2023-01-15T17:08:25+01:00
 subtitle: "Sportsplan - 8-9 år"
 image: ""
-tags: ["barnefotball"]
+tags: ["barnefotball 8-9 år"]
 ---
 
 Her er de viktigste retningslinjene for aldersgruppen 8-9 år.

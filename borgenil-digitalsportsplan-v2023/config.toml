@@ -121,13 +121,19 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "Sportsplan"
+    name = "12 år"
+    url = "page/sportsplan/12"
+    weight = 5    
+
+[[menu.main]]
+    parent = "Sportsplan"
     name = "13-16 år"
     url = "page/sportsplan/13-16"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     parent = "sportsplan-klubben"
     name = "Holdningskontrakt"
     url = "page/sportsplan/klubben/holdningskontrakt"
-    weight = 5
+    weight = 6
 

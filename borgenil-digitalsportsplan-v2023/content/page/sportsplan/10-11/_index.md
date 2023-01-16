@@ -7,6 +7,11 @@ image: ""
 tags: ["barnefotball"]
 ---
 
-Dette er den delen av sportsplanen som omhandler 10-11 år.
+Her er de viktigste retningslinjene for aldersgruppen 10-11 år.
 
-## 10-11 år
+Klikk på linkene under for å lese mer om:
+
+- [Laget](/page/sportsplan/10-11/laget/)
+- [Treneren](/page/sportsplan/10-11/treneren/)
+- [Trening](/page/sportsplan/10-11/trening/)
+- [Kampen](/page/sportsplan/10-11/kampen/)

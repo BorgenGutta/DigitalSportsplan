@@ -2,16 +2,16 @@
 title: "Treneren"
 author: "Jan Vidar Elven"
 date: 2023-01-15T18:00:00+01:00
-subtitle: "Treneren - 8-9 år"
+subtitle: "Treneren - 10-11 år"
 image: ""
-tags: ["barnefotball 8-9 år"]
+tags: ["barnefotball"]
 ---
 
 ### Trenerkompetanse
 
 Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
 
-Vi ønsker at trenerne for alderstrinnet 8-9 år har gjennomført Grasrottreneren delkurs 1 og 2.
+Vi ønsker at trenerne for alderstrinnet 10-11 år har gjennomført Grasrottreneren delkurs 1, 2 og 3.
 
 ### Trenerattest
 
@@ -27,4 +27,4 @@ I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.
 
 Som trener skal du bruke tilrettelegging, mestring og differensiering i treningsarbeidet og gjennomføringen av treningsøkter. Målet er å skape en god balanse mellom mestring og utfordringer for å gi best mulig utvikling for den enkelte spilleren. Differensiering og tilrettelegging er verktøyene til treneren for å oppnå dette.
 
-Differensiering er ikke ensbetydende med å dele spillerne inn i grupper basert på hvor langt de på ferdighetsstigen. For eksempler på verktøy du kan bruke for å tilrettelegge i treningsøkta, [se denne tabellen](https://www.fotball.no/barn-og-ungdom/retningslinjer-for-barne--og-ungdomsfotball/8-9-arsklassene/tilrettelegging-mestring-og-differensiering/).
+Differensiering er ikke ensbetydende med å dele spillerne inn i grupper basert på hvor langt de på ferdighetsstigen. For eksempler på verktøy du kan bruke for å tilrettelegge i treningsøkta, [se denne tabellen](https://www.fotball.no/barn-og-ungdom/retningslinjer-for-barne--og-ungdomsfotball/10-11-arsklassene/tilrettelegging-mestring-og-differensiering/).

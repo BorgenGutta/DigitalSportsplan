@@ -132,6 +132,24 @@ pygmentsCodefencesGuessSyntax = true
     weight = 6
 
 [[menu.main]]
+    parent = "Sportsplan"
+    name = "JR-SR"
+    url = "page/sportsplan/JR-SR"
+    weight = 7    
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "Jente- og Damelag"
+    url = "page/sportsplan/jente"
+    weight = 8  
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "Stjernelag"
+    url = "page/sportsplan/stjerne"
+    weight = 9     
+
+[[menu.main]]
     parent = "sportsplan-klubben"
     name = "Holdningskontrakt"
     url = "page/sportsplan/klubben/holdningskontrakt"

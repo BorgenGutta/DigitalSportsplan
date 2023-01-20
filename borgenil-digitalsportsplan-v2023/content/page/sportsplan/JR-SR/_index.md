@@ -4,7 +4,7 @@ author: "Jan Vidar Elven"
 date: 2023-01-15T17:08:25+01:00
 subtitle: "Sportsplan - JR/SR"
 image: ""
-tags: ["JR","SR"]
+tags: ["junior","senior"]
 ---
 
 Her er de viktigste retningslinjene for Junior og Senior fotball i Borgen.

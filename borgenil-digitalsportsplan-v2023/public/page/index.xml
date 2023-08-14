@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Borgen Idrettslag</title>
+    <link>https://borgenil-digitalsportsplan.netlify.app/page/</link>
+    <description>Recent content in Pages on Borgen Idrettslag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
+    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster>
+    <lastBuildDate>Mon, 16 Jan 2023 00:29:24 +0100</lastBuildDate><atom:link href="https://borgenil-digitalsportsplan.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Om</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/about/</link>
+      <pubDate>Sun, 15 Jan 2023 18:56:12 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/about/</guid>
+      <description>Om Sportsplan Borgens digitale sportsplan er laget ved hjelp av åpen kildekode ved hjelp av gratis programvare og løsninger som:
+GitHub Hugo Netlifly Kildekoden til sportsplanen ligger tilgjengelig her.
+Ta kontakt med Jan Vidar Elven ved spørsmål eller kommentarer.</description>
+    </item>
+    
+  </channel>
+</rss>

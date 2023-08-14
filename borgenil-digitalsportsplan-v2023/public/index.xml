@@ -7,14 +7,272 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
-    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster><atom:link href="https://borgenil-digitalsportsplan.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster>
+    <lastBuildDate>Mon, 16 Jan 2023 00:29:24 +0100</lastBuildDate><atom:link href="https://borgenil-digitalsportsplan.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Om</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/about/</link>
+      <pubDate>Sun, 15 Jan 2023 18:56:12 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/</guid>
-      <description></description>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/about/</guid>
+      <description>Om Sportsplan Borgens digitale sportsplan er laget ved hjelp av åpen kildekode ved hjelp av gratis programvare og løsninger som:
+GitHub Hugo Netlifly Kildekoden til sportsplanen ligger tilgjengelig her.
+Ta kontakt med Jan Vidar Elven ved spørsmål eller kommentarer.</description>
+    </item>
+    
+    <item>
+      <title>Kampen</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/kampen/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/kampen/</guid>
+      <description>Her er informasjon om kampen..</description>
+    </item>
+    
+    <item>
+      <title>Kampen</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/kampen/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/kampen/</guid>
+      <description>Her er informasjon om kampen..</description>
+    </item>
+    
+    <item>
+      <title>Kampen</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/kampen/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/kampen/</guid>
+      <description>Her er informasjon om kampen for jenter..</description>
+    </item>
+    
+    <item>
+      <title>Kampen</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/kampen/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/kampen/</guid>
+      <description>Her er informasjon om kampen for Stjernelag..</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/10-11/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/10-11/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/12/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/12/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/13-16/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/13-16/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jr-sr/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jr-sr/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og spiller setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for breddefotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle. Arbeidet med sportsplanen ledes av klubbens sportslige ledelse og skal forankres hos klubbens styre.</description>
+    </item>
+    
+    <item>
+      <title>Laget</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/laget/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/laget/</guid>
+      <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/10-11/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/10-11/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for alderstrinnet 10-11 år har gjennomført Grasrottreneren delkurs 1, 2 og 3.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/12/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/12/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for alderstrinnet 12 år har gjennomført Grasrottreneren delkurs 1, 2 og 3.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/13-16/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/13-16/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for alderstrinnet 13-16 år har gjennomført Grasrottreneren delkurs 1, 2, 3 og 4.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for alderstrinnet 6-7 år har gjennomført Grasrottreneren delkurs 1.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for alderstrinnet 8-9 år har gjennomført Grasrottreneren delkurs 1 og 2.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for jentelag har gjennomført Grasrottreneren delkurs tilsvarende det årskullet de tilhører, se sportsplan for de ulike årgangene i menyen.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.</description>
+    </item>
+    
+    <item>
+      <title>Treneren</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/treneren/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/treneren/</guid>
+      <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
+Vi ønsker at trenerne for Stjernelag har gjennomført Grasrottreneren delkurs 1.
+Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
+Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig at du utviser trenervett både under trening og i kamp.
+Mestringsorientert ledelse I Borgen skal du som trener være mestringsorientert, og ikke resultatorientert.</description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/trening/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/6-7/trening/</guid>
+      <description>Her er informasjon om trening..</description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/trening/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/8-9/trening/</guid>
+      <description>Her er informasjon om trening..</description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/trening/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/trening/</guid>
+      <description>Her er informasjon om trening for jenter..</description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jr-sr/trening/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jr-sr/trening/</guid>
+      <description>Følgende rammer legges til grunn for å gjennomføre en best mulig sesong:
+Senior Minimum 18 spillere og 2 keepere på trening 3 økter per uke igjennom hele sesongen 2 grupper av 5 JR spillere som hospiterer igjennom hele sesongen Disse er også &amp;ldquo;basis&amp;rdquo; på 6.div laget Junior 4 treninger på hel bane De beste junior spillerne på trening så ofte så mulig Hospitering Følgende ble bestemt i forhold til hospitering:</description>
+    </item>
+    
+    <item>
+      <title>Trening</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/trening/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/stjerne/trening/</guid>
+      <description>Her er informasjon om trening for Stjernelag..</description>
+    </item>
+    
+    <item>
+      <title>Velkommen Til Digital Sportsplan</title>
+      <link>https://borgenil-digitalsportsplan.netlify.app/post/velkommen-til-digitalsportsplan-2023/</link>
+      <pubDate>Sun, 15 Jan 2023 15:44:17 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://borgenil-digitalsportsplan.netlify.app/post/velkommen-til-digitalsportsplan-2023/</guid>
+      <description>Sportsplan i lomma for Borgen Idrettslag Borgen IL sin sportsplan revideres for 2023 og vil nå for første gang være en digital sportsplan som vil være lett tilgjengelig i lomma ikke bare for trenerne i klubben, men også lagledere, sportslig utvalg, administrasjon, spillere og foresatte!
+Innhold For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inneholder følgende seksjoner:
+Klubben Organisasjonsplan Målsetninger Års-/periodeplaner Rekruttering Kompetanse Evaluering Barn-, Ungdoms- og JR/SR avdeling Holdninger og verdier Organisering Sportslig Treningsprinsipper - Øvelser Hospitering Alderstilpasset Sportsplan 6-7 år 8-9 år 10-11 år 13-16 år Sportsplan</description>
     </item>
     
   </channel>

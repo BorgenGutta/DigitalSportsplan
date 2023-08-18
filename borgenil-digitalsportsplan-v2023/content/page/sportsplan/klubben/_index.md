@@ -9,17 +9,18 @@ tags: ["klubben"]
 
 Dette er den delen av sportsplanen som omhandler klubben.
 
+- [Laget](/page/sportsplan/6-7/laget/)
 ## Klubben
 
-For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inneholder følgende seksjoner:
+For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inneholder følgende seksjoner, klikk på link for å komme til innholdet:
 
 - Klubben
-  - Organisasjonsplan
-  - Målsetninger
-  - Års-/periodeplaner
-  - Rekruttering
-  - Kompetanse
-  - Evaluering
+  - [Organisasjonsplan](/page/sportsplan/klubben/organisasjonsplan/)
+  - [Målsetninger](/page/sportsplan/klubben/malsetninger/)
+  - [Års-/periodeplaner](/page/sportsplan/klubben/periodeplaner/)
+  - [Rekruttering](/page/sportsplan/klubben/rekruttering/)
+  - [Kompetanse](/page/sportsplan/klubben/kompetanse/)
+  - [Evaluering](/page/sportsplan/klubben/evaluering/)
 - Barn-, Ungdoms- og JR/SR avdeling
   - Holdninger og verdier
   - Organisering
@@ -35,3 +36,6 @@ For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inne
   - JR/SR
   - Jentefotball
   - Stjernelag
+  
+Oppstartsuka!
+Ny trener i Borgen!

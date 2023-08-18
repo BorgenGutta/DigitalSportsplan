@@ -26,8 +26,6 @@ For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inne
   - [Evaluering](/page/sportsplan/klubben/evaluering/)
 - Barn-, Ungdoms- og JR/SR avdeling
   - [Holdninger og verdier](/page/sportsplan/klubben/holdningerogverdier/)
-  - [Organisering](/page/sportsplan/klubben/organisering/)
-  - [Sportslig](/page/sportsplan/klubben/sportslig/)
   - [Treningsprinsipper - Øvelser](/page/sportsplan/klubben/treningsprinsipper/)
   - [Hospitering](/page/sportsplan/klubben/hospitering/)
 - Alderstilpasset Sportsplan

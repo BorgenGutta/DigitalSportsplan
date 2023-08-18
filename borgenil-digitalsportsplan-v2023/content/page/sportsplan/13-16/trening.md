@@ -2,9 +2,9 @@
 title: "Trening"
 author: "Jan Vidar Elven"
 date: 2023-01-15T18:00:00+01:00
-subtitle: "Trening - 6-7 år"
+subtitle: "Trening - 13-16 år"
 image: ""
-tags: ["barnefotball 6-7 år"]
+tags: ["ungdomsfotball 13-16 år"]
 ---
 
 ## Trening
@@ -19,7 +19,7 @@ Husk virkemidlene for morsom og utviklende fotballaktivitet. [Tema for Den Gode 
 
 ### Tilrettelegging og differensiering
 
-Ingen inndeling etter ferdighetsnivå, men tilpass gjerne veiledning.
+Større grad av inndeling etter ferdighetsnivå, men ikke faste grupper.
 
 ![Treningsmengde og ekstratilbud](/img/Ikon_Treningsmengde%20og%20ekstratilbud.png)
 
@@ -31,7 +31,8 @@ Ingen inndeling etter ferdighetsnivå, men tilpass gjerne veiledning.
 
 ### Hospitering
 
-Anbefaler ingen hospitering for 6-7 år.
+Hospitering kan brukes som virkemiddel i ungdomsfotballen.
+
 ### tiim.no: Økter og øvelser
 
-Klikk her for eksempler på økter og øvelser for aldersklassen: [6-7 år](https://tiim.no/okter-og-ovelser?level=6-7-ar)
+Klikk her for eksempler på økter og øvelser for aldersklassen: [13-16 år](https://tiim.no/okter-og-ovelser?level=13-19-ar)

@@ -7,6 +7,8 @@ image: ""
 tags: ["junior", "senior"]
 ---
 
+## Trening
+
 Følgende rammer legges til grunn for å gjennomføre en best mulig sesong:
 
 ### Senior
@@ -28,3 +30,9 @@ Følgende ble bestemt i forhold til hospitering:
 - 2 grupper av 5 spillere inkl. keeper som trener tirsdag og onsdag med A-laget
 - 1 gruppe oddetall uker og 1 grupper partall uker
 - Sportslig Koordinator organiserer og holder dialog med lagene
+
+### tiim.no: Økter og øvelser
+
+Klikk her for eksempler på økter og øvelser for aldersklassen opp til junior og senior:
+
+[17-19 år](https://tiim.no/okter-og-ovelser?level=13-19-ar)

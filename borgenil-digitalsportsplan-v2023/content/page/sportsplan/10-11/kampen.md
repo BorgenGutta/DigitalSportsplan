@@ -2,12 +2,12 @@
 title: "Kampen"
 author: "Jan Vidar Elven"
 date: 2023-01-15T18:00:00+01:00
-subtitle: "Kampen - 6-7 år"
+subtitle: "Kampen - 10-11 år"
 image: ""
-tags: ["barnefotball 6-7 år"]
+tags: ["barnefotball 10-11 år"]
 ---
 
-Fotballkampen er ukas høydepunkt for store og små fotballspillere. For alderstrinnet 6-7 år gjelder følgende:
+Fotballkampen er ukas høydepunkt for store og små fotballspillere. For alderstrinnet 10-11 år gjelder følgende:
 
 ![Kamper og turneringer](/img/Ikon_Kamper%20og%20turneringer.png)
 
@@ -37,13 +37,13 @@ I barnefotball skal alle spillere spille tilnærmet like mye.
 
 ### Spillform
 
-Spilleformen for 6-7 år er treerfotball.
+Spilleformen for 10-11 år er syverfotball.
 
 ![Spilleregler](/img/dommerfløyte.png)
 
 ### Spilleregler
 
-For detaljer om banestørrelse, ball, spilleregler, tips se denne brosjyren [3 MOT 3 6–7-ÅRSKLASSEN](https://www.fotball.no/globalassets/barn-og-ungdom/spillformbrosjyrer/nff-spillformbrosjyre-3mot3.pdf).
+For detaljer om banestørrelse, ball, spilleregler, tips se denne brosjyren [7 MOT 7 10-11-ÅRSKLASSEN](https://www.fotball.no/globalassets/barn-og-ungdom/spillformbrosjyrer/nff-spillformbrosjyre-7mot7.pdf)
 
 ![Fair Play møtet](/img/FPmøtet-ikon.jpg)
 

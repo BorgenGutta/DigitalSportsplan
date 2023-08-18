@@ -7,4 +7,10 @@ image: ""
 tags: ["jentefotball"]
 ---
 
-Her er informasjon om trening for jenter..
+## Trening
+
+### tiim.no: Økter og øvelser
+
+Klikk her for eksempler på økter og øvelser for aldersklassene:
+
+[Alle år](https://tiim.no/okter-og-ovelser)

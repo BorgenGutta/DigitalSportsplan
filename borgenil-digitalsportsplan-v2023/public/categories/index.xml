@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Borgen Idrettslag</title>
-    <link>https://borgenil-digitalsportsplan.netlify.app/categories/</link>
+    <link>https://sportsplan.borgen-il.no/categories/</link>
     <description>Recent content in Categories on Borgen Idrettslag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
-    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster><atom:link href="https://borgenil-digitalsportsplan.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster><atom:link href="https://sportsplan.borgen-il.no/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

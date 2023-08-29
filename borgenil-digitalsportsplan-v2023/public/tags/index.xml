@@ -2,100 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Borgen Idrettslag</title>
-    <link>https://borgenil-digitalsportsplan.netlify.app/tags/</link>
+    <link>https://sportsplan.borgen-il.no/tags/</link>
     <description>Recent content in Tags on Borgen Idrettslag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
     <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster>
-    <lastBuildDate>Mon, 16 Jan 2023 00:29:24 +0100</lastBuildDate><atom:link href="https://borgenil-digitalsportsplan.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:00:00 +0100</lastBuildDate><atom:link href="https://sportsplan.borgen-il.no/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>klubben</title>
+      <link>https://sportsplan.borgen-il.no/tags/klubben/</link>
+      <pubDate>Fri, 18 Aug 2023 11:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://sportsplan.borgen-il.no/tags/klubben/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Sportsplan</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/sportsplan/</link>
+      <link>https://sportsplan.borgen-il.no/tags/sportsplan/</link>
       <pubDate>Mon, 16 Jan 2023 00:29:24 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/sportsplan/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/sportsplan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>barnefotball</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball/</link>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barnefotball 10-11 år</title>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-10-11-%C3%A5r/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-10-11-%C3%A5r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barnefotball 12 år</title>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-12-%C3%A5r/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-12-%C3%A5r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barnefotball 13-16 år</title>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-13-16-%C3%A5r/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-13-16-%C3%A5r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>barnefotball 6-7 år</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball-6-7-%C3%A5r/</link>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-6-7-%C3%A5r/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball-6-7-%C3%A5r/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-6-7-%C3%A5r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>barnefotball 8-9 år</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball-8-9-%C3%A5r/</link>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-8-9-%C3%A5r/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/barnefotball-8-9-%C3%A5r/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-8-9-%C3%A5r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barnefotball JR-SR</title>
+      <link>https://sportsplan.borgen-il.no/tags/barnefotball-jr-sr/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
+      <author>post@borgen-il.no (Jan Vidar Elven)</author>
+      <guid>https://sportsplan.borgen-il.no/tags/barnefotball-jr-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jentefotball</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/jentefotball/</link>
+      <link>https://sportsplan.borgen-il.no/tags/jentefotball/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/jentefotball/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/jentefotball/</guid>
       <description></description>
     </item>
     
     <item>
       <title>junior</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/junior/</link>
+      <link>https://sportsplan.borgen-il.no/tags/junior/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/junior/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/junior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>senior</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/senior/</link>
+      <link>https://sportsplan.borgen-il.no/tags/senior/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/senior/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/senior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stjernelag</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/stjernelag/</link>
+      <link>https://sportsplan.borgen-il.no/tags/stjernelag/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/stjernelag/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/stjernelag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ungdomsfotball</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/ungdomsfotball/</link>
+      <link>https://sportsplan.borgen-il.no/tags/ungdomsfotball/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/ungdomsfotball/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/ungdomsfotball/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>klubben</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/tags/klubben/</link>
-      <pubDate>Sun, 15 Jan 2023 17:08:25 +0100</pubDate>
+      <title>ungdomsfotball 13-16 år</title>
+      <link>https://sportsplan.borgen-il.no/tags/ungdomsfotball-13-16-%C3%A5r/</link>
+      <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/tags/klubben/</guid>
+      <guid>https://sportsplan.borgen-il.no/tags/ungdomsfotball-13-16-%C3%A5r/</guid>
       <description></description>
     </item>
     

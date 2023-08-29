@@ -2,37 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenter on Borgen Idrettslag</title>
-    <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/</link>
+    <link>https://sportsplan.borgen-il.no/page/sportsplan/jente/</link>
     <description>Recent content in Jenter on Borgen Idrettslag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>post@borgen-il.no (Jan Vidar Elven)</managingEditor>
     <webMaster>post@borgen-il.no (Jan Vidar Elven)</webMaster>
-    <lastBuildDate>Sun, 15 Jan 2023 17:08:25 +0100</lastBuildDate><atom:link href="https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 17:08:25 +0100</lastBuildDate><atom:link href="https://sportsplan.borgen-il.no/page/sportsplan/jente/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kampen</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/kampen/</link>
+      <link>https://sportsplan.borgen-il.no/page/sportsplan/jente/kampen/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/kampen/</guid>
-      <description>Her er informasjon om kampen for jenter..</description>
+      <guid>https://sportsplan.borgen-il.no/page/sportsplan/jente/kampen/</guid>
+      <description>Fotballkampen er ukas høydepunkt for store og små fotballspillere. For jentefotballen gjelder følgende:
+Kamper og turneringer Kamper, turneringer og tabeller gjelder tilsvarende som for de ulike årskullene.
+Laginndeling Laginndeling gjelder tilsvarende som for de ulike årskullene.
+Spilletid i kamp I barnefotball skal alle spillere spille tilnærmet like mye.
+Spillform Spilleformen for jentefotball er tilsvarende som de ulike årskullene.
+Spilleregler Spilleregler for jente barnefotballen eller ungdomsfotballen er tilsvarende som for de ulike årskullene.</description>
     </item>
     
     <item>
       <title>Laget</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/laget/</link>
+      <link>https://sportsplan.borgen-il.no/page/sportsplan/jente/laget/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/laget/</guid>
+      <guid>https://sportsplan.borgen-il.no/page/sportsplan/jente/laget/</guid>
       <description>Klubben som sjef Det er viktig at du som trener, tillitsperson og foresatt setter deg godt inn i klubbens sportsplan. Sportsplanen er klubbens styringsdokument for aktiviteten på feltet. Borgen IL sin sportsplan er basert på NFFs retningslinjer for barne- og ungdomsfotball. Med utgangspunkt i klubbens formål, verdier og målsettinger skal klubbens sportsplan legge grunnlaget for ”Flest mulig – lengst mulig – best mulig” i et trygt og utviklende miljø for alle.</description>
     </item>
     
     <item>
       <title>Treneren</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/treneren/</link>
+      <link>https://sportsplan.borgen-il.no/page/sportsplan/jente/treneren/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/treneren/</guid>
+      <guid>https://sportsplan.borgen-il.no/page/sportsplan/jente/treneren/</guid>
       <description>Trenerkompetanse Fotballtrenerkompetanse er avgjørende for at Borgen IL har dyktige og trygge trenere.
 Vi ønsker at trenerne for jentelag har gjennomført Grasrottreneren delkurs tilsvarende det årskullet de tilhører, se sportsplan for de ulike årgangene i menyen.
 Trenerattest For alle trenere i Borgen IL er det obligatorisk å gjennomføre Trenerattesten
@@ -41,11 +46,12 @@ Trenervett Som trener er du et viktig forbilde for spillerne dine. Det er viktig
     
     <item>
       <title>Trening</title>
-      <link>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/trening/</link>
+      <link>https://sportsplan.borgen-il.no/page/sportsplan/jente/trening/</link>
       <pubDate>Sun, 15 Jan 2023 18:00:00 +0100</pubDate>
       <author>post@borgen-il.no (Jan Vidar Elven)</author>
-      <guid>https://borgenil-digitalsportsplan.netlify.app/page/sportsplan/jente/trening/</guid>
-      <description>Her er informasjon om trening for jenter..</description>
+      <guid>https://sportsplan.borgen-il.no/page/sportsplan/jente/trening/</guid>
+      <description>Trening tiim.no: Økter og øvelser Klikk her for eksempler på økter og øvelser for aldersklassene:
+Alle år</description>
     </item>
     
   </channel>

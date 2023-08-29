@@ -1,4 +1,4 @@
-baseURL = 'https://borgenil-digitalsportsplan.netlify.app/'
+baseURL = 'https://sportsplan.borgen-il.no/'
 languageCode = 'nb-no'
 title = 'Borgen Idrettslag'
 DefaultContentLanguage = "nb"
@@ -31,6 +31,11 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[Params.umami]
+  enabled = true
+  websiteId = "c9a9aac9-32e1-42b1-ac12-890e24551008"
+  jsLocation = "https://analytics.umami.is/script.js"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"

@@ -12,7 +12,7 @@ Borgen IL sin sportsplan revideres for 2023 og vil nå for første gang være en
 
 ### Innhold
 
-For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inneholder følgende seksjoner:
+For å komme til sportsplanen bruker du menyvalgene for Klubben og Sportsplan. Sportsplanen inneholder følgende seksjoner:
 
 - Klubben
   - Organisasjonsplan
@@ -31,6 +31,8 @@ For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inne
   - 6-7 år
   - 8-9 år
   - 10-11 år
+  - 12 år
   - 13-16 år
+  - JR-SR
 
 [Sportsplan](/page/sportsplan/)

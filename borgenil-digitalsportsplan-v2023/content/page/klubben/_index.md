@@ -18,16 +18,18 @@ Klubben har som mål å være ledende på utvikling av yngre spillere, være en 
 For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inneholder følgende seksjoner, klikk på link for å komme til innholdet:
 
 - Klubben
-  - [Organisasjonsplan](/page/sportsplan/klubben/organisasjonsplan/)
-  - [Målsetninger](/page/sportsplan/klubben/malsetninger/)
-  - [Års-/periodeplaner](/page/sportsplan/klubben/periodeplaner/)
-  - [Rekruttering](/page/sportsplan/klubben/rekruttering/)
-  - [Kompetanse](/page/sportsplan/klubben/kompetanse/)
-  - [Evaluering](/page/sportsplan/klubben/evaluering/)
+  - [Organisasjonsplan](/page/klubben/organisasjonsplan/)
+  - [Målsetninger](/page/klubben/malsetninger/)
+  - [Års-/periodeplaner](/page/klubben/periodeplaner/)
+  - [Rekruttering](/page/klubben/rekruttering/)
+  - [Kompetanse](/page/klubben/kompetanse/)
+  - [Evaluering](/page/klubben/evaluering/)
 - Barn-, Ungdoms- og JR/SR avdeling
-  - [Holdninger og verdier](/page/sportsplan/klubben/holdningerogverdier/)
-  - [Treningsprinsipper - Øvelser](/page/sportsplan/klubben/treningsprinsipper/)
-  - [Hospitering](/page/sportsplan/klubben/hospitering/)
+  - [Holdninger og verdier](/page/klubben/holdningerogverdier/)
+  - [Treningsprinsipper - Øvelser](/page/klubben/treningsprinsipper/)
+  - [Hospitering](/page/klubben/hospitering/)
+  - [Jentefotball](/page/klubben/jente/)
+  - [Stjernelag](/page/klubben/stjerne/)
 - Alderstilpasset Sportsplan
   - [6-7 år](/page/sportsplan/6-7/)
   - [8-9 år](/page/sportsplan/8-9/)
@@ -35,7 +37,5 @@ For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inne
   - [12 år](/page/sportsplan/12/)
   - [13-16 år](/page/sportsplan/13-16/)
   - [JR/SR](/page/sportsplan/JR-SR/)
-  - [Jentefotball](/page/sportsplan/jente/)
-  - [Stjernelag](/page/sportsplan/stjerne/)
   
 Klubben arrangerer Oppstartsuka ved starten av høstsesongen i august og på nyåret før vintersesongen starter. Oppstartsuka for alle trenere og lagledere i Borgen og vil fokusere på sportsplan og planlegging av sesongen.

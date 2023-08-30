@@ -80,31 +80,84 @@ pygmentsCodefencesGuessSyntax = true
   #slack = "username"
 
 [[menu.main]]
-    name = "Sportsplan"
-    url = "page/sportsplan/"
+    name = "Klubben"
+    url = "page/klubben/"
     weight = 1
 
 [[menu.main]]
-    name = "Oppdateringer"
-    url = ""
+    name = "Sportsplan"
+    url = "page/sportsplan/"
     weight = 2
+
+[[menu.main]]
+    name = "Nytt"
+    url = ""
+    weight = 3
 
 [[menu.main]]
     name = "Om"
     url = "page/about/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
+    weight = 5
+
+[[menu.main]]
+    parent = "Klubben"
+    identifier = "klubben"
+    name = "Om Visjon og Klubbplan"
+    url = "page/klubben"
+    weight = 1
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Organisasjonsplan"
+    url = "page/klubben/organisasjonsplan"
+    weight = 2
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Målsetninger"
+    url = "page/klubben/malsetninger"
+    weight = 3
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Års-/periodeplaner"
+    url = "page/klubben/periodeplaner"
     weight = 4
 
 [[menu.main]]
-    parent = "Sportsplan"
-    identifier = "sportsplan-klubben"
-    name = "Klubben"
-    url = "page/sportsplan/klubben"
-    weight = 1
+    parent = "Klubben"
+    name = "Rekruttering"
+    url = "page/klubben/rekruttering"
+    weight = 5
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Kompetanse"
+    url = "page/klubben/kompetanse"
+    weight = 6
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Evaluering"
+    url = "page/klubben/evaluering"
+    weight = 7
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Jente- og Damelag"
+    url = "page/klubben/jente"
+    weight = 8  
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Stjernelag"
+    url = "page/klubben/stjerne"
+    weight = 9   
 
 [[menu.main]]
     parent = "Sportsplan"
@@ -143,19 +196,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 7    
 
 [[menu.main]]
-    parent = "Sportsplan"
-    name = "Jente- og Damelag"
-    url = "page/sportsplan/jente"
-    weight = 8  
-
-[[menu.main]]
-    parent = "Sportsplan"
-    name = "Stjernelag"
-    url = "page/sportsplan/stjerne"
-    weight = 9     
-
-[[menu.main]]
-    parent = "sportsplan-klubben"
+    parent = "klubben"
     name = "Holdningskontrakt"
     url = "page/sportsplan/klubben/holdningskontrakt"
     weight = 6

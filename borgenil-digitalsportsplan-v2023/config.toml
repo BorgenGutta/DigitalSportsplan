@@ -113,26 +113,20 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "Klubben"
-    name = "Organisasjonsplan"
+    name = "Sportslig organisering"
     url = "page/klubben/organisasjonsplan"
     weight = 2
 
 [[menu.main]]
     parent = "Klubben"
-    name = "Målsetninger"
-    url = "page/klubben/malsetninger"
-    weight = 3
+    name = "Sportslige prinsipper"
+    url = "page/klubben/sportsprinsipper"
+    weight = 3    
 
 [[menu.main]]
     parent = "Klubben"
     name = "Års-/periodeplaner"
     url = "page/klubben/periodeplaner"
-    weight = 4
-
-[[menu.main]]
-    parent = "Klubben"
-    name = "Rekruttering"
-    url = "page/klubben/rekruttering"
     weight = 5
 
 [[menu.main]]
@@ -143,27 +137,27 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "Klubben"
-    name = "Evaluering"
-    url = "page/klubben/evaluering"
-    weight = 7
-
-[[menu.main]]
-    parent = "Klubben"
     name = "Jente- og Damelag"
     url = "page/klubben/jente"
-    weight = 8  
+    weight = 7  
 
 [[menu.main]]
     parent = "Klubben"
     name = "Stjernelag"
     url = "page/klubben/stjerne"
-    weight = 9   
+    weight = 8   
 
 [[menu.main]]
     parent = "Klubben"
     name = "Fair Play"
     url = "page/klubben/fairplay"
-    weight = 10   
+    weight = 9  
+
+[[menu.main]]
+    parent = "Klubben"
+    name = "Keepere"
+    url = "page/klubben/keepere"
+    weight = 10 
 
 [[menu.main]]
     parent = "Sportsplan"

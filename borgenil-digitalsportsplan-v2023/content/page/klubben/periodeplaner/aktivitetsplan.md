@@ -1,15 +1,17 @@
 ---
-title: "Periodeplaner"
+title: "Aktivitetsplan"
 author: "Jan Vidar Elven"
 date: 2023-08-18T11:00:00+01:00
-subtitle: "Klubben - Periodeplaner"
+subtitle: "Klubben - Aktivitetsplan"
 image: ""
 tags: ["klubben"]
 ---
 
 ## Årsplan/Periodeplan
 
-### Aktivitet for Måloppnåelse – Sportsplan
+### NYE PERIODEPLANER, JV LAGER MAL, REF. SPORTSLIG ORGANISERING
+
+### SKAL BORT (Aktivitet for Måloppnåelse – Sportsplan)
 
 | TILTAK | ANSVAR | TID |
 |---|---|---|

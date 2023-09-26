@@ -127,37 +127,37 @@ pygmentsCodefencesGuessSyntax = true
     parent = "Klubben"
     name = "Års-/periodeplaner"
     url = "page/klubben/periodeplaner"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     parent = "Klubben"
     name = "Kompetanse"
     url = "page/klubben/kompetanse"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     parent = "Klubben"
     name = "Jente- og Damelag"
     url = "page/klubben/jente"
-    weight = 7  
+    weight = 6  
 
 [[menu.main]]
     parent = "Klubben"
     name = "Stjernelag"
     url = "page/klubben/stjerne"
-    weight = 8   
+    weight = 7   
 
 [[menu.main]]
     parent = "Klubben"
     name = "Fair Play"
     url = "page/klubben/fairplay"
-    weight = 9  
+    weight = 8  
 
 [[menu.main]]
     parent = "Klubben"
     name = "Keepere"
     url = "page/klubben/keepere"
-    weight = 10 
+    weight = 9 
 
 [[menu.main]]
     parent = "Sportsplan"

@@ -19,17 +19,8 @@ For å komme til sportsplanen bruker du menyvalget Sportsplan. Sportsplanen inne
 
 - Klubben
   - [Organisasjonsplan](/page/klubben/organisasjonsplan/)
-  - [Målsetninger](/page/klubben/malsetninger/)
   - [Års-/periodeplaner](/page/klubben/periodeplaner/)
-  - [Rekruttering](/page/klubben/rekruttering/)
-  - [Kompetanse](/page/klubben/kompetanse/)
-  - [Evaluering](/page/klubben/evaluering/)
-- Barn-, Ungdoms- og JR/SR avdeling
-  - [Holdninger og verdier](/page/klubben/holdningerogverdier/)
-  - [Treningsprinsipper - Øvelser](/page/klubben/treningsprinsipper/)
-  - [Hospitering](/page/klubben/hospitering/)
-  - [Jentefotball](/page/klubben/jente/)
-  - [Stjernelag](/page/klubben/stjerne/)
+  - [Kompetanse/Rekruttering/Evaluering](/page/klubben/kompetanse/)
 - Alderstilpasset Sportsplan
   - [6-7 år](/page/sportsplan/6-7/)
   - [8-9 år](/page/sportsplan/8-9/)

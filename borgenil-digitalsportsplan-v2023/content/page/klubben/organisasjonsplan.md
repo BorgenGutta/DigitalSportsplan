@@ -15,7 +15,7 @@ Målsetting: 35 spillere pr.årskull. 1 trener pr. 8. spiller
 
 ## Ungdomsavdelingen
 
-Organiserer og er ansvarlig for all aktivitet for aldersgruppen fra G13 frem til Junior.. Årskullene er i en prestasjonsalder hvor det konkurreres om KM. Leder for avdeling er medlem av Borgen Utvikling
+Organiserer og er ansvarlig for all aktivitet for aldersgruppen fra G13/J13 frem til Junior. Årskullene er i en prestasjonsalder hvor det konkurreres om KM. Leder for avdeling er medlem av Borgen Utvikling.
 
 Målsetting: 35 spillere pr.årskull. 1 trener pr. 8. spiller
 

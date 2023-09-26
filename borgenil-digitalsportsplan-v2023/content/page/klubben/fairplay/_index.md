@@ -22,22 +22,22 @@ Følgende innhold benyttes for Fair Play arbeidet i Borgen:
 
 For å bidra til et godt og trygt kamparrangement skal det være minst en kampvert til stede på klubbens kamper arrangert på våre anlegg.
 
-[Kampvert](/page/klubben/fairplay/kampvert)
+[Les mer om kampvert](/page/klubben/fairplay/kampvert)
 
 ### Mobbing og krenkelser
 
 Borgen IL skal tilby trygge fotballaktiviteter for alle våre medlemmer i alle aldre. Klubben har utarbeidet retningslinjer for å forebygge og håndtere eventuelle tilfeller av mobbing og krenkelser blant våre medlemmer, trenere, frivillige og foreldre.
 
-[Mobbing og krenkelser](/page/klubben/fairplay/mobbing-og-krenkelser)
+[Les mer om retningslinjene for å forebygge og håndtere mobbing og krenkelser](/page/klubben/fairplay/mobbing-og-krenkelser)
 
 ### Fair Play kontrakt
 
 Denne kontrakten gjelder for alle fotballspillere under 18 år og er viktig del av Borgen IL sitt arbeid for Fair play.
 
-[Fair Play kontrakt](/page/klubben/fairplay/fairplaykontrakt)
+[Klikk her for å se Fair Play kontrakten](/page/klubben/fairplay/fairplaykontrakt)
 
 ### Fair Play lagskontrakt
 
 Lagskontrakten for Fair Play er hva det enkelte årskullet har blitt enige om sammen.
 
-[Fair Play lagskontrakt](/page/klubben/fairplay/fairplay-lagskontrakt)
+[Klikk her for å se Fair Play lagskontrakt](/page/klubben/fairplay/fairplay-lagskontrakt)

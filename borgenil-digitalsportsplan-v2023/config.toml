@@ -156,7 +156,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Klubben"
     name = "Keepere"
-    url = "page/klubben/keepere"
+    url = "page/klubben/keeper"
     weight = 9 
 
 [[menu.main]]

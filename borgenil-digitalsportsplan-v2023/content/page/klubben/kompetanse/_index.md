@@ -17,6 +17,10 @@ I denne delen av sportsplanen beskrives hvordan Borgen IL jobber med kompetanse,
 
 [Les mer om rekruttering](/page/klubben/kompetanse/rekruttering)
 
+[Les mer om rekrutteringstiltak lagledere og trenere](/page/klubben/kompetanse/rekrutteringstiltak_lagledere_trenere)
+
+[Les mer om rekrutteringstiltak spillere](/page/klubben/kompetanse/rekrutteringstiltak_spillere)
+
 ### Evaluering
 
 [Les mer om evaluering](/page/klubben/kompetanse/evaluering)

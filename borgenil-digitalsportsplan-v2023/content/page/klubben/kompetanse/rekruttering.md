@@ -1,6 +1,6 @@
 ---
 title: "Rekruttering"
-author: "Jan Vidar Elven"
+author: "Madeleine Myrvold Johansen"
 date: 2023-08-18T11:00:00+01:00
 subtitle: "Klubben - Rekruttering"
 image: ""

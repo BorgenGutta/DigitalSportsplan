@@ -1,7 +1,7 @@
 ---
 title: "Evaluering"
-author: "Jan Vidar Elven"
-date: 2023-08-18T11:00:00+01:00
+author: "Madeleine Myrvold Johansen"
+date: 2023-09-26T11:00:00+01:00
 subtitle: "Klubben - Evaluering"
 image: ""
 tags: ["klubben"]
@@ -9,26 +9,28 @@ tags: ["klubben"]
 
 ## Evaluering
 
-Evalueringsmøter med alle aldersgrupper fra 6 år til Junior i oktober/november hvert år. Det er medlemmer i Barne- og Jenteutvalget og Sportslig utvalg som gjennomfører evalueringsmøtene og det skrives referat fra hvert møte.
+Evalueringsmøter med alle aldersgrupper fra 6 år til Junior i oktober/november hvert år. Det er medlemmer i Borgen utvikling som gjennomfører evalueringsmøtene og det skrives referat fra hvert møte.
 
 Saker som tas opp i møtene:
 
 1. Gjennomgang av erfaringer fra årets sesong vedrørende:
-- kampavvikling
-- treningstider og treningsmengde 
-- deltagelse i turneringer
-- sosiale arrangementer
-- utstyr til spillere, trenere og lagledere
-- dugnader
-- årsberetninger
-- vurdere resultatene for ungdomsgruppene fra 13 år til Junior år opp mot målsettingene
-- tilbakemelding på sportslig klubbplan og håndbok for tillitsvalgte
+- Kampavvikling
+- Treningstider og treningsmengde 
+- Deltagelse i turneringer
+- Sosiale arrangementer
+- Utstyr til spillere, trenere og lagledere
+- Dugnader
+- Årsberetninger
+- Tilbakemelding på sportslig klubbplan og håndbok for tillitsvalgte
+- Kick off for trenere og lagledere
+- Prosjekt "Trygge trenere"
 
 2. Planlegge neste sesong vedrørende:
-- påmelding av antall lag i gruppen
-- kontaktpersoner for lagene 
-- trenere og lagledere for lagene
-- påmelding trenerkurs
-- treningstider og treningssteder
-- kartlegge behov for nytt utstyr til spillere, trenere og lagledere
-- nytt fra klubb, ØFK og NFF
+- Påmelding av antall lag i gruppen og frister for påmelding
+- Kontaktpersoner for lagene 
+- Trenere og lagledere for lagene
+- Trenerkurs
+- Treningstider og treningssteder
+- Kartlegge behov for nytt utstyr til spillere, trenere og lagledere
+- Nytt fra klubb, ØFK og NFF
+- Hvilke forventninger og ønsker rundt "Trygge trenere" og Kick off

@@ -11,7 +11,7 @@ tags: ["klubben"]
 
 Borgen IL ønsker å være en attraktiv klubb for alle alderstrinn og ser det som hensiktsmessig å innføre noen felles og enkle prinsipper for glede, mestring og utvikling.
 
-Å være trener i Borgen skal gi mer energi enn det tar!
+> Å være trener i Borgen skal gi mer energi enn det tar!
 
 Prinsippene er basert på positiv psykologi og gjelder fra 6 – 16 år.
 

@@ -41,3 +41,11 @@ Denne kontrakten gjelder for alle fotballspillere under 18 år og er viktig del 
 Lagskontrakten for Fair Play er hva det enkelte årskullet har blitt enige om sammen.
 
 [Klikk her for å se Fair Play lagskontrakt](/page/klubben/fairplay/fairplay-lagskontrakt)
+
+### Varslingskanal
+
+Borgen IL er opptatt at det skal være trygt og hyggelig å være på våre anlegg, og vi ønsker å vite om det foregår hendelser som ikke skal finne sted der.
+
+Har du opplevd eller sett noe du mener ikke hører hjemme på eller rundt anleggene våre? Da vil vi gjerne høre om det via vår anonyme varslingskanal:
+
+[Klikk her for å komme til varslingskanalen](https://forms.office.com/pages/responsepage.aspx?id=uDwoNJ4VLEW5MNI2RQRqR6TIO6FKSy1LpIKz0eK08HNUN0pDVkY0SjlYQlUwOTMzRjJJNEY3TURCSC4u)

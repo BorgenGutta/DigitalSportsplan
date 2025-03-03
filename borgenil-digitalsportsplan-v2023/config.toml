@@ -160,6 +160,12 @@ pygmentsCodefencesGuessSyntax = true
     weight = 9 
 
 [[menu.main]]
+    parent = "Klubben"
+    name = "Trenerpool"
+    url = "page/klubben/trenerpool"
+    weight = 10 
+
+[[menu.main]]
     parent = "Sportsplan"
     name = "6-7 år"
     url = "page/sportsplan/6-7"

@@ -37,8 +37,6 @@ Barne- eller ungdomsfotballansvarlig formidler kontakt tilbake og setter opp avt
 
 Trenerveileder følger opp øktene ved mulighet og spesielt i starten.​
 
-> Å være trener i Borgen skal gi mer energi enn det tar!
-
 ## Kompensasjon
 
 Trenerne i trenerpoolen mottar en lønn pr gjennomført økt på kr 300 (60-90 minutter). ​

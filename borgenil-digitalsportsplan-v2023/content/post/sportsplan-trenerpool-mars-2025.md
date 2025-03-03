@@ -23,3 +23,4 @@ Trenerpoolen er først og fremst for ad hoc bestilling, og Borgen har i første 
 For å bestille en trener fra trenerpoolen, har Borgen beskrevet prosessen i Sportsplanen, se link under:
 
 [Trenerpool](/page/klubben/trenerpool)
+
